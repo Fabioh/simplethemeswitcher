@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
+  "homepage": "https://fabioh.github.io/simplethemeswitcher",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Fabioh/simplethemeswitcher.git"
@@ -24,6 +25,8 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,6 +48,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.0.1"
+    "@types/styled-components": "^5.0.1",
+    "gh-pages": "^2.2.0"
   }
 }
