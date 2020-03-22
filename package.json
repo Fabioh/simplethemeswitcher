@@ -1,7 +1,12 @@
 {
   "name": "themeswitcher",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabioh/simplethemeswitcher.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
