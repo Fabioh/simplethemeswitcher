@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/simplethemeswitcher/static/js/main.ef050838.chunk.js",
+    "main.js.map": "/simplethemeswitcher/static/js/main.ef050838.chunk.js.map",
+    "runtime-main.js": "/simplethemeswitcher/static/js/runtime-main.ec2927bf.js",
+    "runtime-main.js.map": "/simplethemeswitcher/static/js/runtime-main.ec2927bf.js.map",
+    "static/js/2.e47a151a.chunk.js": "/simplethemeswitcher/static/js/2.e47a151a.chunk.js",
+    "static/js/2.e47a151a.chunk.js.map": "/simplethemeswitcher/static/js/2.e47a151a.chunk.js.map",
+    "index.html": "/simplethemeswitcher/index.html",
+    "precache-manifest.213c82425d6b8763ac8ff2b26fc06e96.js": "/simplethemeswitcher/precache-manifest.213c82425d6b8763ac8ff2b26fc06e96.js",
+    "service-worker.js": "/simplethemeswitcher/service-worker.js",
+    "static/js/2.e47a151a.chunk.js.LICENSE.txt": "/simplethemeswitcher/static/js/2.e47a151a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec2927bf.js",
+    "static/js/2.e47a151a.chunk.js",
+    "static/js/main.ef050838.chunk.js"
+  ]
+}
