@@ -9,7 +9,7 @@
     "url": "git+https://github.com/Fabioh/simplethemeswitcher.git"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "@types/jest": "^25.1.4",
